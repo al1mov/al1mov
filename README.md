@@ -1,4 +1,4 @@
-### Hi there 👋   https://user-images.githubusercontent.com/104076055/224534351-cd8b7e8a-28bf-4e42-889f-ee667aa4fa5b.mp4
+### Hi there 👋 
 
 
 
