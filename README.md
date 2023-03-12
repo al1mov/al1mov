@@ -14,13 +14,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=al1mov&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/@MahsudAlimov)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![]<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=MahsudAlimov"/></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://images3.memedroid.com/images/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=al1mov&icon=0&color=0)](https://visitcount.itsvg.in)
