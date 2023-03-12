@@ -1,4 +1,4 @@
-##Hello👋 
+##Hi 👋, I'm Alimov Mahsud 
 💫 About Me:
 🔭 I’m current!<br>🌱 I’m currently learning ... Vue.js<br>👯 I’m looking to collaborate on ... Vue.js<br>💬 Ask me about ...My name is Mahsud. I'm a Web Developer!<br>⚡ Fun fact: ...Coding has over 700 languages.💻
 
@@ -14,7 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=al1mov&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/MahsudAlimov)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=https://twitter.com/@MahsudAlimov)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
