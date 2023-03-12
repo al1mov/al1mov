@@ -27,7 +27,9 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/al1movdev) 
+  
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/104076055/224539454-ffcbc8f1-4a26-4b6c-a111-7f267869c463.svg)
 
- ![image](https://user-images.githubusercontent.com/104076055/224539410-13a12454-bc87-4bb0-b161-f897c35520d0.png)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
