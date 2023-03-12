@@ -1,11 +1,15 @@
 ### Hi there 👋
 
+
+![logo2](https://user-images.githubusercontent.com/104076055/224534267-44159c24-9eaf-466f-bcc1-252cfd48e48f.png)
+
 <!--
 **al1mov/al1mov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m current!
+ly working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
