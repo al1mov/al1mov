@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there 👋   https://user-images.githubusercontent.com/104076055/224534351-cd8b7e8a-28bf-4e42-889f-ee667aa4fa5b.mp4
 
 
-![logo2](https://user-images.githubusercontent.com/104076055/224534267-44159c24-9eaf-466f-bcc1-252cfd48e48f.png)
 
 <!--
 **al1mov/al1mov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
