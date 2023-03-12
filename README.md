@@ -1,7 +1,5 @@
 ### Hi there 👋 
 
-![Youtube_loading_symbol_1_(wobbly)](https://user-images.githubusercontent.com/104076055/224535192-3fd338a3-54c4-4e5d-b66e-d2d093257b1e.gif)
-
 
 <!--
 **al1mov/al1mov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
