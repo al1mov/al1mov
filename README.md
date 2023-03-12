@@ -14,7 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=al1mov&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🐦 Latest Tweet
-[![]<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=MahsudAlimov"/></a>
+<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=MahsudAlimov"/></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
