@@ -1,5 +1,4 @@
-Hi👋
-I'm Alimov Mahsud 
+Hi👋, I'm Alimov Mahsud 
 💫 About Me:
 🔭 I’m current!<br>🌱 I’m currently learning Vue.js<br>💬 Ask me about My name is Mahsud. I'm a Web Developer!<br>⚡ Fun fact: Coding has over 700 languages.💻
 
