@@ -1,5 +1,7 @@
 Hi👋, I'm Alimov Mahsud 
-💫 About Me:
+
+💫 About Me: I was born on May 7, 2008 in Uchtepa district of Tashkent city. I have been interested in technology since I was young. This made me realize that I need to learn programming, and in 2019 I went to the "IT HOUS" educational center, where I participated in the "One Million Uzbek Coders" project and successfully completed it, and then they gave me a certificate. This made me more interested in programming. I came to an idea that I should go for a full course in web programming and again I started studying at IT HOUS training center in 2021. After successfully completing the course, I increased the number of my certificates to one, and most importantly, I got a good education!
+
 🔭 I’m current!<br>🌱 I’m currently learning Vue.js<br>💬 Ask me about My name is Mahsud. I'm a Web Developer!<br>⚡ Fun fact: Coding has over 700 languages.💻
 
 
