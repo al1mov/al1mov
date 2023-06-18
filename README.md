@@ -1,4 +1,5 @@
-  <h1>Hi 👋</h1>, I'm Alimov Mahsud 
+<br/><br/><br/><br/><br/><br/><h1>Hi 👋</h1>
+I'm Alimov Mahsud 
 💫 About Me:
 🔭 I’m current!<br>🌱 I’m currently learning Vue.js<br>💬 Ask me about My name is Mahsud. I'm a Web Developer!<br>⚡ Fun fact: Coding has over 700 languages.💻
 
@@ -16,8 +17,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=al1mov&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/al1movdev) 
   
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/104076055/224539454-ffcbc8f1-4a26-4b6c-a111-7f267869c463.svg)
 
