@@ -9,7 +9,7 @@ Hi👋, I'm Alimov Mahsud
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/al1mov#5422) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/al1mov_dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alimov-mahsud-5bb873241/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/MahsudAlimov) 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=al1mov&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=al1mov&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
   
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/104076055/224539454-ffcbc8f1-4a26-4b6c-a111-7f267869c463.svg)
