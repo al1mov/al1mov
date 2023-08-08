@@ -4,11 +4,6 @@ Hi👋, I'm Alimov Mahsud
 
 🔭 I’m current vue.js developer!<br>⚡ Fun fact: Coding has over 700 languages.💻
 
-
-## 🌐 Socials:
-[![Discord](https://yourimageshare.com/ib/SNa9NB3laW)](https://discord.gg/al1mov#5422) [![Instagram](https://yourimageshare.com/ib/MU37C7R3c8)](https://instagram.com/https://www.instagram.com/al1mov_dev/) [![LinkedIn](https://yourimageshare.com/ib/jpaguiBvbU)](https://linkedin.com/in/https://www.linkedin.com/in/alimov-mahsud-5bb873241/) [![Twitter](https://yourimageshare.com/ib/3koBeTtaj7)](https://twitter.com/https://twitter.com/MahsudAlimov) 
-[!Telegram](https://yourimageshare.com/ib/ymSiFl313r)](https://t.me/to_al1mov)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=al1mov&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
