@@ -7,8 +7,8 @@ Hi👋, I'm Alimov Mahsud
 ---
 [![](https://visitcount.itsvg.in/api?id=al1mov&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=al1mov)](https://github.com/al1mov/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al1mov&layout=compact)
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=al1mov)](https://github.com/al1mov/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al1mov&layout=donut-vertical)](https://github.com/al1mov/github-readme-stats)
   
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/104076055/224539454-ffcbc8f1-4a26-4b6c-a111-7f267869c463.svg)
 
